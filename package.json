@@ -1,0 +1,18 @@
+{
+  "name": "bc-form-toolkit",
+  "main": "./lib/bc-form-toolkit",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "bc-form-toolkit:toggle"
+  },
+  "repository": "https://github.com/atom/bc-form-toolkit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
