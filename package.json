@@ -1,14 +1,14 @@
 {
   "name": "bc-form-toolkit",
   "main": "./lib/bc-form-toolkit",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "WWM toolkit for cleaning up BC forms",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "bc-form-toolkit:toggle"
+    "atom-workspace": "bc-form-toolkit:fullCleanup"
   },
-  "repository": "https://github.com/atom/bc-form-toolkit",
+  "repository": "https://bitbucket.org/websitegrid/bc-form-toolkit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

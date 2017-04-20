@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle bc-form-toolkit",
-        "command": "bc-form-toolkit:toggle"
+        "label": "BC Form: Full Cleanup",
+        "command": "bc-form-toolkit:fullCleanup"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "bc-form-toolkit",
+          "label": "BC Form Toolkit",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "bc-form-toolkit:toggle"
+              "label": "Full Cleanup",
+              "command": "bc-form-toolkit:fullCleanup"
             }
           ]
         }

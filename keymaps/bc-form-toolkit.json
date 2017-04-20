@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "bc-form-toolkit:toggle"
+      "ctrl-alt-shift-t": "bc-form-toolkit:fullcleanup"
   }
 }
