@@ -4,6 +4,9 @@
       {
         "label": "BC Form: Full Cleanup",
         "command": "bc-form-toolkit:fullCleanup"
+      },
+      {
+          "type": "separator"
       }
     ]
   },
