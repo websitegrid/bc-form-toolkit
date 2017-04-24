@@ -1,7 +1,7 @@
 {
   "name": "bc-form-toolkit",
   "main": "./lib/bc-form-toolkit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Toolkit for cleaning up BC forms",
   "keywords": [],
   "activationCommands": {
