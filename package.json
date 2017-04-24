@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "bc-form-toolkit:fullCleanup"
   },
-  "repository": "https://bitbucket.org/websitegrid/bc-form-toolkit",
+  "repository": "https://github.com/websitegrid/bc-form-toolkit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
