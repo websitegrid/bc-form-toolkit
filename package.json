@@ -2,7 +2,7 @@
   "name": "bc-form-toolkit",
   "main": "./lib/bc-form-toolkit",
   "version": "1.0.0",
-  "description": "Toolkit for cleaning up BC forms",
+  "description": "Clean up BC forms",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "bc-form-toolkit:fullCleanup"
