@@ -1,3 +1,3 @@
-# bc-form-toolkit package
+# bc-form-toolkit
 
-A set of tools for cleaning up BC form markup
+An atom package for cleaning up BC form markup
